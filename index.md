@@ -54,7 +54,7 @@
 结果表明，该方法在 **Nvidia Jetson Xavier NX** 平台上，
 对 **720P 图像可实现 20 Hz 的实时处理性能**。
 
-![机载实验](assets/images/3.png)
+![机载实验](assets/images/3.jpg)
 
 图 3：验证实验可视化
 
