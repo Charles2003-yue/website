@@ -3,9 +3,7 @@
 
 **Ren Jin，Zikai Jia，Xingyu Yin，Yi Niu，Yuhua Qi**
 
-📄 Paper (Remote Sensing 2024):  
-https://www.mdpi.com/2072-4292/16/9/1626
-
+👉 **[📄 Paper (Remote Sensing 2024)](https://doi.org/10.3390/rs16091626)**
 
 ---
 
@@ -56,7 +54,7 @@ https://www.mdpi.com/2072-4292/16/9/1626
 结果表明，该方法在 **Nvidia Jetson Xavier NX** 平台上，
 对 **720P 图像可实现 20 Hz 的实时处理性能**。
 
-![机载实验](assets/images/3.jpg)
+![机载实验](assets/images/3.png)
 
 图 3：验证实验可视化
 
