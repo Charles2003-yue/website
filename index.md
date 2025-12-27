@@ -3,7 +3,9 @@
 
 **Ren Jin，Zikai Jia，Xingyu Yin，Yi Niu，Yuhua Qi**
 
-👉 **[📄 Paper (Remote Sensing 2024)](https://www.mdpi.com/2072-4292/16/9/1626)**
+📄 Paper (Remote Sensing 2024):  
+https://www.mdpi.com/2072-4292/16/9/1626
+
 
 ---
 
