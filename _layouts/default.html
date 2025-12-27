@@ -4,17 +4,38 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- 字体 -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-  <!-- 样式 -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
-  <main class="paper-container">
-    {{ content }}
-  </main>
+
+<!-- ===== HERO ===== -->
+<header class="hero">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <h1>Domain Feature Decomposition for Efficient Object Detection in Aerial Images</h1>
+    <h2>空域特征分解用于高效航空图像目标检测</h2>
+
+    <p class="authors">
+      Ren Jin · Zikai Jia · Xingyu Yin · Yi Niu · Yuhua Qi
+    </p>
+
+    <div class="hero-buttons">
+      <a href="https://doi.org/10.3390/rs16091626" target="_blank">📄 Paper</a>
+    </div>
+  </div>
+</header>
+
+<!-- ===== CONTENT ===== -->
+<main class="content">
+  {{ content }}
+</main>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+  <p>© 2024 Aerial Image Object Detection Project</p>
+</footer>
+
 </body>
 </html>
