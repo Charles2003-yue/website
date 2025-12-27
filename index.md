@@ -3,12 +3,15 @@ layout: default
 title: Domain Feature Decomposition for Efficient Object Detection in Aerial Images
 ---
 
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Domain Feature Decomposition for Efficient Object Detection in Aerial Images  
-### 空域特征分解用于高效航空图像目标检测
+### 跨域特征分解用于高效航空图像目标检测
 
 **Ren Jin · Zikai Jia · Xingyu Yin · Yi Niu · Yuhua Qi**
 
-👉 **[📄 Paper (Remote Sensing 2024)](https://doi.org/10.3390/rs16091626)**
+<a class="paper-link" href="https://doi.org/10.3390/rs16091626" target="_blank">📄 阅读论文 - Remote Sensing 2024</a>
+
 
 ---
 
