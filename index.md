@@ -5,10 +5,6 @@ title: Domain Feature Decomposition for Efficient Object Detection in Aerial Ima
 
 <link rel="stylesheet" href="assets/css/style.css">
 
-# Domain Feature Decomposition for Efficient Object Detection in Aerial Images  
-### 跨域特征分解用于高效航空图像目标检测
-
-**Ren Jin · Zikai Jia · Xingyu Yin · Yi Niu · Yuhua Qi**
 
 <a class="paper-link" href="https://doi.org/10.3390/rs16091626" target="_blank">📄 阅读论文 - Remote Sensing 2024</a>
 
@@ -51,7 +47,7 @@ title: Domain Feature Decomposition for Efficient Object Detection in Aerial Ima
 
 ![实验结果对比](assets/images/1.jpg)
 
-*图 2：不同方法在 UAVDT 与 VisDrone 数据集上的检测性能对比*
+*图 2：机载实验平台*
 
 ---
 
@@ -62,7 +58,7 @@ title: Domain Feature Decomposition for Efficient Object Detection in Aerial Ima
 
 ![机载实验](assets/images/3.jpg)
 
-*图 3：机载实验平台与检测结果可视化*
+*图 3：检测结果可视化*
 
 ---
 
